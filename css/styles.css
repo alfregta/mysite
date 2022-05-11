@@ -1,0 +1,88 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+  }
+h1{
+  color: #251D3A;
+  font-size: 80px;
+  margin: 50px auto 0 auto;
+  font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+  line-height: 2;
+  }
+h2{
+  color: #525E75;
+  font-size: 2.5rem;
+  margin: 50px auto 0 auto;
+  font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif
+  font-weight: bolder;
+  line-height: 2;
+  }
+h3{
+  color: #525E75;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+  font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+  }
+  a
+  {
+  margin: 20px 10px;
+  font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif;
+  }
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.top-container{
+  background-color: #396EB0;
+  position: relative;
+  padding-top: 100px;
+  }
+.middle-container{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  }
+.bottom-container{
+  background-color: #396EB0;
+  margin: 50px 0 20px;
+  }
+.bottom-cloud
+  {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+  }
+.top-cloud
+  {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  }
+.profile-img
+  {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  }
+.skill-img
+  {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  }
+.camera-img
+  {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+  }
+  .btn {
+    font-family: Georgia;
+    color: #042b0c;
+    font-size: 20px;
+    background: #22ba64;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
